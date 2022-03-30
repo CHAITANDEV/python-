@@ -1,2 +1,2 @@
-# Best-Wallpaper-of-2022
-Intial stage of Web D
+# Intial Stage Of Data Science 
+it is assignments of almabetter full stack data Science program 
